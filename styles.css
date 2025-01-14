@@ -8,3 +8,10 @@ h1{
 .blue{
 	background-color:blue;
 }
+table{
+	border:1px solid black;
+	margin : 1px;
+}
+th{
+	padding:1px
+}
