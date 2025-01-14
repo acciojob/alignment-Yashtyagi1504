@@ -9,7 +9,7 @@ h1{
 	background-color:blue;
 }
 table{
-	border:1px solid black;
+	border:1px solid rgb(0, 0, 0);
 	margin : 1px;
 }
 th{
